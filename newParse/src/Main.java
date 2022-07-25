@@ -11,13 +11,13 @@ import java.awt.*;
 public class Main extends JFrame{
     Button comp = new Button();
     GridBagConstraints gbc = new GridBagConstraints();
-    public Main(){
-        setLayout(new GridBagLayout());
+//     public Main(){
+//         setLayout(new GridBagLayout());
 
-        gbc.gridx = 0;
-        gbc.gridy = 0;
-        add(comp, gbc);
-    }
+//         gbc.gridx = 0;
+//         gbc.gridy = 0;
+//         add(comp, gbc);
+//     }
     /**
      * Main method
      * @param args Arguments passed through
